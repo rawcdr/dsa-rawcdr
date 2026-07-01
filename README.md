@@ -41,6 +41,7 @@
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0222-count-complete-tree-nodes) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,4 +117,16 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
