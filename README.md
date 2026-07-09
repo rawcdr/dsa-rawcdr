@@ -9,6 +9,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/rawcdr/dsa-rawcdr/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
@@ -101,6 +103,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/rawcdr/dsa-rawcdr/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/rawcdr/dsa-rawcdr/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -152,6 +155,7 @@
 | [0547-number-of-provinces](https://github.com/rawcdr/dsa-rawcdr/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rawcdr/dsa-rawcdr/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,6 +176,7 @@
 | [0547-number-of-provinces](https://github.com/rawcdr/dsa-rawcdr/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rawcdr/dsa-rawcdr/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/rawcdr/dsa-rawcdr/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
