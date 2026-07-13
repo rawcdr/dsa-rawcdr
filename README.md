@@ -40,6 +40,7 @@
 | [0099-recover-binary-search-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rawcdr/dsa-rawcdr/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/rawcdr/dsa-rawcdr/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -53,6 +54,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rawcdr/dsa-rawcdr/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/rawcdr/dsa-rawcdr/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/rawcdr/dsa-rawcdr/tree/master/0733-flood-fill) |
@@ -182,6 +184,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rawcdr/dsa-rawcdr/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/rawcdr/dsa-rawcdr/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rawcdr/dsa-rawcdr/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rawcdr/dsa-rawcdr/tree/master/2685-count-the-number-of-complete-components) |
@@ -204,6 +207,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rawcdr/dsa-rawcdr/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/rawcdr/dsa-rawcdr/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
