@@ -132,6 +132,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rawcdr/dsa-rawcdr/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 ## String
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
