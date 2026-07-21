@@ -50,6 +50,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/rawcdr/dsa-rawcdr/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/rawcdr/dsa-rawcdr/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rawcdr/dsa-rawcdr/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rawcdr/dsa-rawcdr/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -63,6 +64,7 @@
 | [0733-flood-fill](https://github.com/rawcdr/dsa-rawcdr/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rawcdr/dsa-rawcdr/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rawcdr/dsa-rawcdr/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rawcdr/dsa-rawcdr/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rawcdr/dsa-rawcdr/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -111,6 +113,7 @@
 | [0733-flood-fill](https://github.com/rawcdr/dsa-rawcdr/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rawcdr/dsa-rawcdr/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/rawcdr/dsa-rawcdr/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rawcdr/dsa-rawcdr/tree/master/1301-number-of-paths-with-max-score) |
@@ -175,6 +178,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/rawcdr/dsa-rawcdr/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/rawcdr/dsa-rawcdr/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/rawcdr/dsa-rawcdr/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rawcdr/dsa-rawcdr/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rawcdr/dsa-rawcdr/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -192,6 +196,7 @@
 | [0542-01-matrix](https://github.com/rawcdr/dsa-rawcdr/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rawcdr/dsa-rawcdr/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rawcdr/dsa-rawcdr/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rawcdr/dsa-rawcdr/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/rawcdr/dsa-rawcdr/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
