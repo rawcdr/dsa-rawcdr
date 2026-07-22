@@ -95,6 +95,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rawcdr/dsa-rawcdr/tree/master/3620-network-recovery-pathways) |
@@ -120,6 +121,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rawcdr/dsa-rawcdr/tree/master/3620-network-recovery-pathways) |
@@ -158,6 +160,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -268,4 +271,8 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rawcdr/dsa-rawcdr/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
