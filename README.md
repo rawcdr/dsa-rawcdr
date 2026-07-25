@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0222-count-complete-tree-nodes) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
@@ -122,6 +123,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rawcdr/dsa-rawcdr/tree/master/3620-network-recovery-pathways) |
@@ -244,6 +246,7 @@
 ## Math
 |  |
 | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rawcdr/dsa-rawcdr/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rawcdr/dsa-rawcdr/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -261,6 +264,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/rawcdr/dsa-rawcdr/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
