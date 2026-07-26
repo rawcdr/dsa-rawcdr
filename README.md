@@ -227,6 +227,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rawcdr/dsa-rawcdr/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/rawcdr/dsa-rawcdr/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/rawcdr/dsa-rawcdr/tree/master/1301-number-of-paths-with-max-score) |
@@ -248,6 +249,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rawcdr/dsa-rawcdr/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rawcdr/dsa-rawcdr/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -282,4 +284,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rawcdr/dsa-rawcdr/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
