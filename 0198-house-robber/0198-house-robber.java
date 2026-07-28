@@ -19,4 +19,4 @@ class Solution {
 // this is hardcord:
 // dp recurrnce = max(nums[i] + solve(i+2), solve(i+1));
 // basically take/skip
-// 
+// same in tabulation : to store it and use and recursively calc it
