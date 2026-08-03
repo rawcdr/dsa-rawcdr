@@ -125,6 +125,7 @@
 | [1288-remove-covered-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rawcdr/dsa-rawcdr/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -243,6 +244,7 @@
 | [0542-01-matrix](https://github.com/rawcdr/dsa-rawcdr/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/rawcdr/dsa-rawcdr/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/rawcdr/dsa-rawcdr/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1406-stone-game-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rawcdr/dsa-rawcdr/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -267,6 +269,7 @@
 | [0070-climbing-stairs](https://github.com/rawcdr/dsa-rawcdr/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rawcdr/dsa-rawcdr/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -322,4 +325,5 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rawcdr/dsa-rawcdr/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
