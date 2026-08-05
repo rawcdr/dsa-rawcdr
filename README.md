@@ -113,6 +113,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/rawcdr/dsa-rawcdr/tree/master/0130-surrounded-regions) |
@@ -192,6 +193,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rawcdr/dsa-rawcdr/tree/master/3867-sum-of-gcd-of-formed-pairs) |
