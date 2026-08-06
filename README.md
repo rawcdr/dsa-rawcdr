@@ -114,6 +114,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rawcdr/dsa-rawcdr/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -198,6 +199,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rawcdr/dsa-rawcdr/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/rawcdr/dsa-rawcdr/tree/master/0125-valid-palindrome) |
@@ -304,6 +306,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rawcdr/dsa-rawcdr/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
