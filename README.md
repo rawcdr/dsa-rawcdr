@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rawcdr/dsa-rawcdr/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rawcdr/dsa-rawcdr/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/rawcdr/dsa-rawcdr/tree/master/0125-valid-palindrome) |
@@ -276,6 +278,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
