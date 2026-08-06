@@ -98,6 +98,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rawcdr/dsa-rawcdr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -118,6 +119,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/rawcdr/dsa-rawcdr/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rawcdr/dsa-rawcdr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/rawcdr/dsa-rawcdr/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/rawcdr/dsa-rawcdr/tree/master/0542-01-matrix) |
@@ -199,6 +201,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/rawcdr/dsa-rawcdr/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rawcdr/dsa-rawcdr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/rawcdr/dsa-rawcdr/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3534-path-existence-queries-in-a-graph-ii) |
