@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
@@ -130,6 +131,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rawcdr/dsa-rawcdr/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/rawcdr/dsa-rawcdr/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rawcdr/dsa-rawcdr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rawcdr/dsa-rawcdr/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0209-minimum-size-subarray-sum) |
@@ -163,6 +165,7 @@
 | [0053-maximum-subarray](https://github.com/rawcdr/dsa-rawcdr/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -300,6 +303,7 @@
 | ------- |
 | [0015-3sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
@@ -369,6 +373,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -389,4 +394,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/0056-merge-intervals) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
