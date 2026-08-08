@@ -125,6 +125,7 @@
 | [0027-remove-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rawcdr/dsa-rawcdr/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/rawcdr/dsa-rawcdr/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -224,6 +225,7 @@
 | [0015-3sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/rawcdr/dsa-rawcdr/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/rawcdr/dsa-rawcdr/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rawcdr/dsa-rawcdr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -306,6 +308,7 @@
 | ------- |
 | [0015-3sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/rawcdr/dsa-rawcdr/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/1288-remove-covered-intervals) |
@@ -398,8 +401,13 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/rawcdr/dsa-rawcdr/tree/master/0075-sort-colors) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rawcdr/dsa-rawcdr/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
