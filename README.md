@@ -145,6 +145,7 @@
 | [0994-rotting-oranges](https://github.com/rawcdr/dsa-rawcdr/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/rawcdr/dsa-rawcdr/tree/master/1020-number-of-enclaves) |
+| [1140-stone-game-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rawcdr/dsa-rawcdr/tree/master/1301-number-of-paths-with-max-score) |
@@ -293,6 +294,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/rawcdr/dsa-rawcdr/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/rawcdr/dsa-rawcdr/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rawcdr/dsa-rawcdr/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rawcdr/dsa-rawcdr/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -326,6 +328,7 @@
 | [0189-rotate-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rawcdr/dsa-rawcdr/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -340,6 +343,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rawcdr/dsa-rawcdr/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1140-stone-game-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -392,6 +396,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rawcdr/dsa-rawcdr/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
@@ -410,4 +415,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rawcdr/dsa-rawcdr/tree/master/0075-sort-colors) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
