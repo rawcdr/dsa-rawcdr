@@ -105,6 +105,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rawcdr/dsa-rawcdr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/rawcdr/dsa-rawcdr/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -142,6 +143,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/rawcdr/dsa-rawcdr/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/rawcdr/dsa-rawcdr/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/rawcdr/dsa-rawcdr/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/rawcdr/dsa-rawcdr/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/rawcdr/dsa-rawcdr/tree/master/0994-rotting-oranges) |
