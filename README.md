@@ -146,6 +146,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rawcdr/dsa-rawcdr/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/rawcdr/dsa-rawcdr/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
@@ -241,6 +242,7 @@
 | [0125-valid-palindrome](https://github.com/rawcdr/dsa-rawcdr/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rawcdr/dsa-rawcdr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/rawcdr/dsa-rawcdr/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rawcdr/dsa-rawcdr/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
