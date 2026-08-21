@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/rawcdr/dsa-rawcdr/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -138,6 +139,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rawcdr/dsa-rawcdr/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/rawcdr/dsa-rawcdr/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/rawcdr/dsa-rawcdr/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rawcdr/dsa-rawcdr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
@@ -251,6 +253,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rawcdr/dsa-rawcdr/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/rawcdr/dsa-rawcdr/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/rawcdr/dsa-rawcdr/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/rawcdr/dsa-rawcdr/tree/master/1020-number-of-enclaves) |
