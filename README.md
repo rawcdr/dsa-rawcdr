@@ -9,6 +9,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
@@ -106,6 +107,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rawcdr/dsa-rawcdr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rawcdr/dsa-rawcdr/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
@@ -142,6 +145,7 @@
 | [0198-house-robber](https://github.com/rawcdr/dsa-rawcdr/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rawcdr/dsa-rawcdr/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/rawcdr/dsa-rawcdr/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
@@ -318,6 +322,7 @@
 | [0056-merge-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rawcdr/dsa-rawcdr/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
@@ -332,6 +337,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/rawcdr/dsa-rawcdr/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rawcdr/dsa-rawcdr/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1140-stone-game-ii) |
