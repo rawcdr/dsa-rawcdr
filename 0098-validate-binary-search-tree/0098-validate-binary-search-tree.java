@@ -15,16 +15,14 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        return isValid(root, Long.MIN_VALUE, Long.MAX_VALUE);
+        return validate(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
 
-    private boolean isValid(TreeNode root, long min, long max){
-        if(root == null) return true;  // base case - empty tree
+    private boolean validate(TreeNode node, long min, long max) {
+        if (node == null) return true;
 
-        // node must be within the range
-        if(root.val <= min || root.val >= max) return false;
-        
-        // check left and right subtree
-        return isValid(root.left, min, root.val) && isValid(root.right, root.val, max);
+        if (node.val <= min || node.val >= max) return false;
+
+        return validate(node.left, min, node.val) && validate(node.right, node.val, max);
     }
 }
