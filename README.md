@@ -26,6 +26,7 @@
 | [0098-validate-binary-search-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/rawcdr/dsa-rawcdr/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/rawcdr/dsa-rawcdr/tree/master/0207-course-schedule) |
@@ -95,6 +97,7 @@
 | [0098-validate-binary-search-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
