@@ -14,27 +14,18 @@
  * }
  */
 class Solution {
-    // no need to go though all val, just till kth node
-
-    int cnt = 0;
-    int ans = 0;
+    ArrayList<Integer> list = new ArrayList<>();
 
     public int kthSmallest(TreeNode root, int k) {
-        inorder(root, k);
-        return ans;
+        inorder(root);
+        return list.get(k - 1);
     }
 
-    private void inorder(TreeNode root, int k){
-        if(root == null) return;
+    public void inorder(TreeNode root) {
+        if (root == null) return;
 
-        inorder(root.left, k);
-
-        cnt++;
-        if(cnt == k){
-            ans = root.val;
-            return;
-        }
-
-        inorder(root.right, k);
+        inorder(root.left);
+        list.add(root.val);
+        inorder(root.right);
     }
 }
