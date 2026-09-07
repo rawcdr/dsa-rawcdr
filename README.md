@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rawcdr/dsa-rawcdr/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
@@ -179,6 +180,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/rawcdr/dsa-rawcdr/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/rawcdr/dsa-rawcdr/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/rawcdr/dsa-rawcdr/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/rawcdr/dsa-rawcdr/tree/master/0704-binary-search) |
@@ -403,6 +405,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rawcdr/dsa-rawcdr/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rawcdr/dsa-rawcdr/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1140-stone-game-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
