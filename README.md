@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rawcdr/dsa-rawcdr/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
@@ -176,6 +177,7 @@
 | [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/rawcdr/dsa-rawcdr/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/rawcdr/dsa-rawcdr/tree/master/0695-max-area-of-island) |
@@ -368,6 +370,7 @@
 | [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
