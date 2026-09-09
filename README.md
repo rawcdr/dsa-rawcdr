@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rawcdr/dsa-rawcdr/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rawcdr/dsa-rawcdr/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rawcdr/dsa-rawcdr/tree/master/0128-longest-consecutive-sequence) |
@@ -157,6 +158,7 @@
 | [0027-remove-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rawcdr/dsa-rawcdr/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/rawcdr/dsa-rawcdr/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rawcdr/dsa-rawcdr/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rawcdr/dsa-rawcdr/tree/master/0075-sort-colors) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rawcdr/dsa-rawcdr/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rawcdr/dsa-rawcdr/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/rawcdr/dsa-rawcdr/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -367,6 +370,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/rawcdr/dsa-rawcdr/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rawcdr/dsa-rawcdr/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rawcdr/dsa-rawcdr/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rawcdr/dsa-rawcdr/tree/master/0169-majority-element) |
