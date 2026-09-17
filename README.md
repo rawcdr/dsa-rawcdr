@@ -19,6 +19,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rawcdr/dsa-rawcdr/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -136,6 +137,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/rawcdr/dsa-rawcdr/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/rawcdr/dsa-rawcdr/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rawcdr/dsa-rawcdr/tree/master/0704-binary-search) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -200,6 +202,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rawcdr/dsa-rawcdr/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rawcdr/dsa-rawcdr/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -265,6 +268,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -358,6 +362,7 @@
 | [1140-stone-game-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rawcdr/dsa-rawcdr/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/rawcdr/dsa-rawcdr/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rawcdr/dsa-rawcdr/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rawcdr/dsa-rawcdr/tree/master/3620-network-recovery-pathways) |
