@@ -513,4 +513,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rawcdr/dsa-rawcdr/tree/master/0836-rectangle-overlap) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/rawcdr/dsa-rawcdr/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
