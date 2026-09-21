@@ -519,4 +519,5 @@
 | [0584-find-customer-referee](https://github.com/rawcdr/dsa-rawcdr/tree/master/0584-find-customer-referee) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/rawcdr/dsa-rawcdr/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rawcdr/dsa-rawcdr/tree/master/1757-recyclable-and-low-fat-products) |
+| [1907-count-salary-categories](https://github.com/rawcdr/dsa-rawcdr/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
