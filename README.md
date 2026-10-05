@@ -186,6 +186,7 @@
 | [0542-01-matrix](https://github.com/rawcdr/dsa-rawcdr/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rawcdr/dsa-rawcdr/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawcdr/dsa-rawcdr/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/rawcdr/dsa-rawcdr/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/rawcdr/dsa-rawcdr/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/rawcdr/dsa-rawcdr/tree/master/0733-flood-fill) |
@@ -267,6 +268,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rawcdr/dsa-rawcdr/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/rawcdr/dsa-rawcdr/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rawcdr/dsa-rawcdr/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rawcdr/dsa-rawcdr/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Monotonic Stack
